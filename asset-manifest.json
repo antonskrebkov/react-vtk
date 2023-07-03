@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-vtk/static/css/main.61b8063f.css",
+    "main.js": "/react-vtk/static/js/main.f1cf1b96.js",
+    "static/media/tools.svg": "/react-vtk/static/media/tools.7a0d07c310b14484cf443da4d05c3437.svg",
+    "index.html": "/react-vtk/index.html",
+    "static/media/home.svg": "/react-vtk/static/media/home.a73bb740da7c68782380ee5d80c33344.svg",
+    "main.61b8063f.css.map": "/react-vtk/static/css/main.61b8063f.css.map",
+    "main.f1cf1b96.js.map": "/react-vtk/static/js/main.f1cf1b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b8063f.css",
+    "static/js/main.f1cf1b96.js"
+  ]
+}
